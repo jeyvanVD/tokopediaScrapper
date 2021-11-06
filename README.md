@@ -11,3 +11,6 @@ The steps include:
 * clone this repository
 * Run the command ```mvn package``` to compile the code
 * Run the commabd ```java -jar target\tokopedia_scraper-1.0-SNAPSHOT.jar``` to run the code.
+
+To view the file used to create the web scraper, go to this directory:
+```src/main/java/com/tokopedia/scraper/App.java```
