@@ -13,6 +13,6 @@ The steps include:
 * Run the commabd ```java -jar target\tokopedia_scraper-1.0-SNAPSHOT.jar``` to run the code.
 
 To view the file used to create the web scraper, go to this directory:
-```src/main/java/com/tokopedia/scraper/App.java```
+```src/main/java/com/tokopedia/scraper/App.java``` /n
 The configuration and dependency settings for Maven could be found ehre:
 ```pom.xml```
