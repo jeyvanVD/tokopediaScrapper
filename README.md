@@ -14,3 +14,5 @@ The steps include:
 
 To view the file used to create the web scraper, go to this directory:
 ```src/main/java/com/tokopedia/scraper/App.java```
+The configuration and dependency settings for Maven could be found ehre:
+```pom.xml```
